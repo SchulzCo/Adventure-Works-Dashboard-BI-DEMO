@@ -32,3 +32,12 @@ Este tablero se posiciona como una herramienta clave para la toma de decisiones 
 - Navega con los filtros superiores (Año, Trimestre, Mes, Canal, Empleado) para personalizar la vista.  
 
 ---
+
+## Vista del Dashboard
+![Índice del Reporte](PNG/Índice del Reporte.png)
+
+## Resumen_ejecutivo
+![Resumen Ejecutivo](PNG/Resumen_ejecutivo.png)
+
+## Control de Gestión y RRHH
+![Control de Gestión](PNG/control_rrhh.png)
