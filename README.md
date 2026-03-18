@@ -34,7 +34,7 @@ Este tablero se posiciona como una herramienta clave para la toma de decisiones 
 ---
 
 ## Vista del Dashboard
-![Índice del Reporte](PNG/Índice del Reporte.png)
+![Índice del Reporte](PNG/IndiceReporte.png)
 
 ## Resumen_ejecutivo
 ![Resumen Ejecutivo](PNG/Resumen_ejecutivo.png)
